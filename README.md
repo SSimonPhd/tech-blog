@@ -18,7 +18,7 @@ coming soon!
 
 - URL to deployed application
 
-coming soon!
+https://boiling-meadow-27323.herokuapp.com/
 
 
 - URL to GitHub Repo
