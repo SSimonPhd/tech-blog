@@ -7,7 +7,7 @@ Build a CMS-style blog site where developers can publish their blog posts and co
 1. Ran npm install 
 1. Coded Handlebars, JS & SQL files
 1. Created database
-1. Created .env
+1. Created .env file
 1. Tested and debugged
 1. Uploaded working files to GitHub
 1. Deployed to Heroku
