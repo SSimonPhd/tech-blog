@@ -14,7 +14,7 @@ Build a CMS-style blog site where developers can publish their blog posts and co
 
 - Screenshot
 
-coming soon!
+![image](https://user-images.githubusercontent.com/60651145/199467973-cd22ad9d-e9d4-4044-8e66-b5fefab290ab.png)
 
 - URL to deployed application
 
