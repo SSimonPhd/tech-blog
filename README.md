@@ -24,4 +24,4 @@ https://boiling-meadow-27323.herokuapp.com/
 
 - URL to GitHub Repo
 
-https://github.com/SSimonPhd/tech-blog
+https://github.com/SSimonPhd/tech-blog 
